@@ -1,0 +1,4 @@
+INFO[2023-04-18T05:11:25.429Z]: Hello world log
+ERROR[2023-04-18T05:11:25.430Z]: Hello world log
+WARNING[2023-04-18T05:11:25.431Z]: Hello world log
+IMPORTANT[2023-04-18T05:11:25.432Z]: Hello world log

@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "sourceMap": false,
+    "outDir": "dist",
+    "strict": false,
+    "lib": ["es6", "dom", "es2017"],
+    "esModuleInterop": false,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "allowJs":true,
+    "baseUrl": "./",
+    "module": "commonjs",
+    "target": "es5",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "moduleResolution": "Node",
+  },
+  "include": [
+    "./index.ts",
+    "./application.properties",
+    "./src"
+  ]
+}
